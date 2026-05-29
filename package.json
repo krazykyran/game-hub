@@ -1,0 +1,17 @@
+{
+  "name": "game-hub",
+  "version": "0.1.0",
+  "description": "Browser-based game hub built with Phaser 3 — splash menu with selectable game tiles.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.80.1"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
